@@ -1,0 +1,13 @@
+.user img{
+    border-radius: 50%;
+    width: 100px;
+}
+
+.comment{
+    margin: 15px 0px;
+    border: 1px solid goldenrod;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: honeydew;
+}
+
